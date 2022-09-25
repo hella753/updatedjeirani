@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(255, 218, 143);
+}
+.win {
+  margin-top: 50px;
+}
+.mogwag,
+.svla {
+  font-size: 20px;
+  font-weight: bold;
+}
+.satauri {
+  text-align: center;
+  margin-top: 150px;
+  color: rgb(145, 73, 97);
+}
+.choose {
+  font-style: italic;
+}
+div {
+  text-align: center;
+}
+button {
+  background-color: blanchedalmond;
+  color: rgb(145, 111, 10);
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 140px;
+  height: 40px;
+  font-size: large;
+}
+button:hover {
+  background-color: rgba(255, 235, 205, 0.716);
+  transition: 0.5s;
+  box-shadow: 5px 5px rgb(233, 177, 92);
+}
+button:active {
+  transition: 0.5s;
+  box-shadow: none;
+}
+img {
+  width: 150px;
+  cursor: pointer;
+  margin-right: 50px;
+}
+.fotoebi {
+  vertical-align: middle;
+}
+p {
+  text-align: center;
+  color: palevioletred;
+  font-weight: bold;
+}
+.cha-svla {
+  margin-left: 70px;
+}
+.hidden {
+  opacity: 0;
+}
+button:hover {
+  cursor: pointer;
+}
